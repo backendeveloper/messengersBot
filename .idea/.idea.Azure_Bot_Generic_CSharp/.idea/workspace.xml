@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa29dcd2-6308-4f7e-8404-aafb7e825dc8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MessagesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/MessagesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+              <folding>
+                <marker date="1513883288000" expanded="false" signature="6:352" ph="..." />
+                <marker date="1513883288000" expanded="true" signature="388:3316" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="466:3314" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="481:606" ph="/// POST: api/Messages ... " />
+                <marker date="1513883288000" expanded="true" signature="687:2188" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="753:1987" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="1113:1533" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="1554:1973" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2004:2079" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2252:3308" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2324:2469" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2355:2455" ph="/* Implement user deletion here ... */" />
+                <marker date="1513883288000" expanded="true" signature="2540:2810" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2571:2796" ph="/* Handle conversation state changes, like members being added and removed ... */" />
+                <marker date="1513883288000" expanded="true" signature="2884:3043" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="2915:3029" ph="/* Handle add/remove from contact lists ... */" />
+                <marker date="1513883288000" expanded="true" signature="3102:3187" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="3244:3272" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Web.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Global.asax" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Global.asax">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacebookShareButton.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/FacebookShareButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513883288000" expanded="true" signature="41:398" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="108:396" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="151:212" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="328:389" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacebookGenericTemplateContent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/FacebookGenericTemplateContent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513883288000" expanded="true" signature="41:648" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="119:646" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="173:321" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebApiConfig.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App_Start/WebApiConfig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513883288000" expanded="false" signature="6:130" ph="..." />
+                <marker date="1513883288000" expanded="true" signature="166:1317" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="205:1315" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="273:1309" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="736:960" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="975:1043" ph="/* Web API configuration and services ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShareButtonDialog.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dialogs/ShareButtonDialog.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <folding>
+                <marker date="1513894339768" expanded="true" signature="34:1768" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="47:182" ph="..." />
+                <marker date="1513894339768" expanded="true" signature="255:1766" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="322:395" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="505:1760" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="790:1402" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="862:1388" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="944:1370" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="1018:1348" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="1113:1322" ph="{...}" />
+                <marker date="1513894339768" expanded="true" signature="1195:1292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacebookAttachment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/FacebookAttachment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <marker date="1513883288000" expanded="true" signature="41:523" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="107:521" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="149:205" ph="{...}" />
+                <marker date="1513883288000" expanded="true" signature="451:515" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Controllers/MessagesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/FacebookAttachment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/FacebookGenericTemplateContent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/FacebookShareButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dialogs/ShareButtonDialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App_Start/WebApiConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/packages.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controllers/MessagesController.cs" />
+        <option value="$PROJECT_DIR$/Dialogs/ShareButtonDialog.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1196" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Azure_Bot_Generic_CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Azure_Bot_Generic_CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App_Start" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Azure_Bot_Generic_CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Azure_Bot_Generic_CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dialogs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Azure_Bot_Generic_CSharp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Azure_Bot_Generic_CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Azure_Bot_Generic_CSharp.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6" />
+      <browser url="http://127.0.0.1:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa29dcd2-6308-4f7e-8404-aafb7e825dc8" name="Default" comment="" />
+      <created>1513894130157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513894130157</updated>
+      <workItem from="1513894131293" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="799000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Models/FacebookAttachment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1513883288000" expanded="true" signature="41:523" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="107:521" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="149:205" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="451:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_Start/WebApiConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513883288000" expanded="false" signature="6:130" ph="..." />
+            <marker date="1513883288000" expanded="true" signature="166:1317" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="205:1315" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="273:1309" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="736:960" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="975:1043" ph="/* Web API configuration and services ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/FacebookShareButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513883288000" expanded="true" signature="41:398" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="108:396" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="151:212" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="328:389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/FacebookGenericTemplateContent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513883288000" expanded="true" signature="41:648" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="119:646" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="173:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/MessagesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <marker date="1513883288000" expanded="false" signature="6:352" ph="..." />
+            <marker date="1513883288000" expanded="true" signature="388:3316" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="466:3314" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="481:606" ph="/// POST: api/Messages ... " />
+            <marker date="1513883288000" expanded="true" signature="687:2188" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="753:1987" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="1113:1533" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="1554:1973" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2004:2079" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2252:3308" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2324:2469" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2355:2455" ph="/* Implement user deletion here ... */" />
+            <marker date="1513883288000" expanded="true" signature="2540:2810" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2571:2796" ph="/* Handle conversation state changes, like members being added and removed ... */" />
+            <marker date="1513883288000" expanded="true" signature="2884:3043" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="2915:3029" ph="/* Handle add/remove from contact lists ... */" />
+            <marker date="1513883288000" expanded="true" signature="3102:3187" ph="{...}" />
+            <marker date="1513883288000" expanded="true" signature="3244:3272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dialogs/ShareButtonDialog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <marker date="1513894339768" expanded="true" signature="34:1768" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="47:182" ph="..." />
+            <marker date="1513894339768" expanded="true" signature="255:1766" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="322:395" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="505:1760" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="790:1402" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="862:1388" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="944:1370" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="1018:1348" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="1113:1322" ph="{...}" />
+            <marker date="1513894339768" expanded="true" signature="1195:1292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
